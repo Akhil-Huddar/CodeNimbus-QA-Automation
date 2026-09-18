@@ -1,0 +1,5 @@
+selenium==4.49.0
+pytest==9.1.1
+python-dotenv
+gspread==6.2.1
+google-auth
